@@ -1,0 +1,1 @@
+- [Try GraphQL](https://trygql.com/) - interractive web-site with 10 challenges/lessons
